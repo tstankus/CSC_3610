@@ -12,7 +12,7 @@ public class LinkedListTest {
 
 
     public static void main(String[] args) {
-        LinkedList <Object> linkedList = new LinkedList();
+        LinkedList <Object> auroraList = new LinkedList();
 
 
     }
