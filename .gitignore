@@ -1,0 +1,22 @@
+*.class
+*.jar
+
+# intellij
+/**/*.iml
+
+workspace.xml
+tasks.xml
+dictionaries
+dataSources.ids
+dataSources.xml
+sqlDataSources.xml
+dynamic.xml
+uiDesigner.xml
+
+*.ipr
+*.iws
+
+# stupid hack
+*.xml
+
+/out/
